@@ -15,12 +15,11 @@ PyBber ride-sharing data by city type
 
 * Data Source: city_data.csv & ride_data.csv
 * Software: Python 3.9.6
-* Total Fares by City Type 
 
 
 ## Summary
-Rural out performed all City Types, with an average fare per driver $55.49
 
+*
 * Suburban $39.50
 * Urban $16.57
 
@@ -29,7 +28,6 @@ Rural out performed all City Types, with an average fare per driver $55.49
 ![](/analysis/PyBer_fare_summary.png)
 
 ## Challenge Overview
-
 
 
 ## Challenge Summary
