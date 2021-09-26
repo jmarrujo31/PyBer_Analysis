@@ -19,9 +19,6 @@ PyBber ride-sharing data by city type
 
 ## Summary
 
-*
-* Suburban $39.50
-* Urban $16.57
 
 ![](/analysis/pyber_summary_df.png)
 
